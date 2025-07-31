@@ -17,11 +17,10 @@ jar cfe SnakeGame.jar SnakeGame *.class icons/*
 
 ## 💻 TO RUN
 - Run JAR file directly or
-- in CLI
 ```bash
 npm install -g http-server
 http-server -p 8080
 ```
-then copy the http link generated and paste it in browser 
+then copy the http link generated in CLI and paste it in browser 
 - Note : Directly opening index.html will not work
 
