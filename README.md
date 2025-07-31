@@ -15,7 +15,7 @@ javac --release 17 SnakeGame.java
 jar cfe SnakeGame.jar SnakeGame *.class icons/*
 ```
 
-## TO RUN
+## 💻 TO RUN
 ```bash
 npm install -g http-server
 http-server -p 8080
