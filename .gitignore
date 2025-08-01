@@ -16,3 +16,5 @@ Thumbs.db
 # Optional: exclude backup or temp files
 *~
 *.swp
+
+.gitignore
