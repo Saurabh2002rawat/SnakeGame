@@ -1,0 +1,18 @@
+# Bytecode and build artifacts
+*.class
+
+# Java-specific
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs/editors
+.vscode/
+.idea/
+*.iml
+
+# Optional: exclude backup or temp files
+*~
+*.swp
